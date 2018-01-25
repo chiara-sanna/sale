@@ -1,0 +1,7 @@
+.carousel-inner > .carousel-item > img {
+    margin: 0 auto;
+}
+
+.carousel-caption > p {
+    font-size: 20px;
+}

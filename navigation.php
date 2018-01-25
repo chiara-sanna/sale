@@ -7,21 +7,21 @@
     <div class="collapse navbar-collapse" id="navbarResponsive">
       <ul class="navbar-nav mx-auto">
         <li class="nav-item active px-lg-4">
-          <a class="nav-link text-uppercase text-expanded" href="#index.html">Home
+          <a class="nav-link text-uppercase text-expanded" href="index.php">Home
             <span class="sr-only">(current)</span>
           </a>
         </li>
         <li class="nav-item px-lg-4">
-          <a class="nav-link text-uppercase text-expanded" href="#about.html">About</a>
-        </li>
-        <li class="nav-item px-lg-4">
-          <a class="nav-link text-uppercase text-expanded" href="#products.html">Products</a>
-        </li>
-        <li class="nav-item px-lg-4">
-          <a class="nav-link text-uppercase text-expanded" href="#store.html">Store</a>
+          <a class="nav-link text-uppercase text-expanded" href="foto-oggetti-antichi.php">Foto</a>
         </li>
         <li class="nav-item px-lg-4">
           <a class="nav-link text-uppercase text-expanded" href="dove-siamo.php">Dove siamo</a>
+        </li>
+        <li class="nav-item px-lg-4">
+          <a class="nav-link text-uppercase text-expanded" href="#products.html">TO-DO</a>
+        </li>
+        <li class="nav-item px-lg-4">
+          <a class="nav-link text-uppercase text-expanded" href="#store.html">TO-DO</a>
         </li>
       </ul>
     </div>

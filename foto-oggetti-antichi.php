@@ -9,11 +9,20 @@
     </header>
     <?php require 'navigation.php';?>
 
-    <section class="page-section clearfix">
-        <div class="container">
-            <div class="intro">
 
-             <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+    <section class="page-section">
+        <div class="container">
+            <div class="product-item">
+                <div class="product-item-title d-flex">
+                    <div class="bg-faded p-5 d-flex mr-auto rounded">
+                        <h2 class="section-heading mb-0">
+                            <span class="section-heading-upper">La tradizione che non muore</span>
+                            <span class="section-heading-lower">Foto di oggetti antichi</span>
+                        </h2>
+                    </div>
+                </div>
+
+                <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
                     <ol class="carousel-indicators">
                         <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
                         <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
@@ -21,17 +30,13 @@
                     </ol>
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img class="d-block w-75" src="img/intro.png" alt="First slide">
-                              <div class="carousel-caption d-none d-md-block">
-                                <h4>Falegnameria Arredamenti</h4>
-                                <p>Progettiamo e realizziamo bar e locali pubblici porte interne infissi esterni zanzariere e sistemi oscuranti mobili su misura e artigianali arredamenti completi classici e moderni!</p>
-                              </div>
+                            <img class="d-block w-75" src="img/oggetti-antichi.png" alt="First slide">
                         </div>
                         <div class="carousel-item">
-                            <img class="d-block w-75" src="img/intro.png" alt="Second slide">
+                            <img class="d-block w-75" src="img/oggetti-antichi.png" alt="Second slide">
                         </div>
                         <div class="carousel-item">
-                            <img class="d-block w-75" src="img/intro.png" alt="Third slide">
+                            <img class="d-block w-75" src="img/oggetti-antichi.png" alt="Third slide">
                         </div>
                     </div>
                     <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -44,23 +49,6 @@
                     </a>
                 </div>
 
-
-                
-            </div>
-        </div>
-    </section>
-    <section class="page-section cta">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-9 mx-auto">
-                    <div class="cta-inner text-center rounded">
-                        <h2 class="section-heading mb-4">
-                            <span class="section-heading-upper">Our Promise</span>
-                            <span class="section-heading-lower">To You</span>
-                        </h2>
-                        <p class="mb-0">Garantiamo professionalità e competenza dalla progettazione alla posa in opera!</p>
-                    </div>
-                </div>
             </div>
         </div>
     </section>

@@ -2,6 +2,11 @@
 <html lang="en">
 <head>
     <?php require 'head.php';?>
+    <style>
+      #map {
+        height: 500px;
+      }
+    </style>
 </head>
 <body>
     <header>
@@ -11,9 +16,43 @@
 
     <section class="page-section clearfix">
         <div class="container">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3091.0172397888787!2d9.124721215359891!3d39.219774179522275!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12e734725d2dc121%3A0x7a215f3a81181664!2sVia+Giacomo+Puccini%2C+09128+Cagliari+CA!5e0!3m2!1sen!2sit!4v1516624142666" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-        </div>
-    </section>
+               <div id="map"></div>
+          </div>
+
+      </section>
+    <script>
+
+
+
+      function initMap() {
+        var cagliari = {lat: 39.214187, lng: 9.111982};
+        var map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 20,
+          center: cagliari
+        });
+
+        var contentString = '<h4>Sanna legno</h4><p>testo testo testo testo</p>';
+
+        var infowindow = new google.maps.InfoWindow({
+          content: contentString,
+          maxWidth: 200
+        });
+
+        var marker = new google.maps.Marker({
+          position: cagliari,
+          map: map,
+          title: 'Cagliari sanna'
+        });
+        infowindow.open(map, marker);
+        marker.addListener('click', function() {
+          infowindow.open(map, marker);
+        });
+      }
+    </script>
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCBnCMGOQvSAnDwPA4MFuBtmRjJW0_DRuM
+&callback=initMap">
+    </script>
     <?php require 'footer.php';?>
     <?php require 'js.php';?>
 </body>
