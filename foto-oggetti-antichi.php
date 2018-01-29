@@ -33,7 +33,7 @@
                             <img class="d-block w-75" src="img/oggetti-antichi.png" alt="First slide">
                         </div>
                         <div class="carousel-item">
-                            <img class="d-block w-75" src="img/teiera antica.png" alt="Second slide">
+                            <img class="d-block w-75" src="img/teiera antica.jpg" alt="Second slide">
                         </div>
                         <div class="carousel-item">
                             <img class="d-block w-75" src="img/oggetti-antichi.png" alt="Third slide">
