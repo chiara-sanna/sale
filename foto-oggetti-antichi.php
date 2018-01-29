@@ -17,7 +17,7 @@
                     <div class="bg-faded p-5 d-flex mr-auto rounded">
                         <h2 class="section-heading mb-0">
                             <span class="section-heading-upper">La tradizione che non muore</span>
-                            <span class="section-heading-lower">Foto di oggetti antichi</span>
+                            <span class="section-heading-lower">scorci del passato</span>
                         </h2>
                     </div>
                 </div>
