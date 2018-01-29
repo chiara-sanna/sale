@@ -12,7 +12,7 @@
           </a>
         </li>
         <li class="nav-item px-lg-4">
-          <a class="nav-link text-uppercase text-expanded" href="foto-oggetti-antichi.php">Foto</a>
+          <a class="nav-link text-uppercase text-expanded" href="scorci del passato.php">Foto</a>
         </li>
         <li class="nav-item px-lg-4">
           <a class="nav-link text-uppercase text-expanded" href="dove-siamo.php">Dove siamo</a>
@@ -22,6 +22,12 @@
         </li>
         <li class="nav-item px-lg-4">
           <a class="nav-link text-uppercase text-expanded" href="#store.html">TO-DO</a>
+        </li>
+        <li class="nav-item px-lg-4">
+          <a class="nav-link text-uppercase text-expanded" href="#su-misura.html">TO-DO</a>
+        </li>
+         <li class="nav-item px-lg-4">
+          <a class="nav-link text-uppercase text-expanded" href="#contact-us.html">TO-DO</a>
         </li>
       </ul>
     </div>
