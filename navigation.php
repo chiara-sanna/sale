@@ -11,6 +11,16 @@
             <span class="sr-only">(current)</span>
           </a>
         </li>
+        <header>
+        <img src="img/header-bg.png">
+           <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav mx-auto">
+             <li class="nav-item active px-lg-4">
+               <a class="nav-link text-uppercase text-expanded" href="index.php">Home
+                <span class="sr-only">(current)</span>
+          </a>
+        </li>
+    </header>
         <li class="nav-item px-lg-4">
           <a class="nav-link text-uppercase text-expanded" href="scorci del passato.php">Foto</a>
         </li>
