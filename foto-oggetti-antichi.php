@@ -36,7 +36,7 @@
                             <img class="d-block w-75" src="img/teiera antica.jpg" alt="Second slide">
                         </div>
                         <div class="carousel-item">
-                            <img class="d-block w-75" src="img/oggetti-antichi.png" alt="Third slide">
+                            <img class="d-block w-75" src="img/intagli-a-mano.jpg" alt="Third slide">
                         </div>
                     </div>
                     <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
