@@ -64,18 +64,6 @@
             </div>
         </div>
     </section>
-    
-    <section class="page-section">
-      <div class="container">
-        <div class="product-item">
-          <div class="product-item-title d-flex">
-            <div class="bg-faded p-5 d-flex ml-auto rounded">
-              <h2 class="section-heading mb-0">
-                <span class="section-heading-upper">Falegnameria Arredamenti</span>
-                <span class="section-heading-lower">Progettiamo e realizziamo bar e locali pubblici, porte interne, infissi esterni, zanzariere e sistemi oscuranti, mobili su misura e artigianali. Arredamenti completi classici e moderni!</span>
-              </h2>
-            </div>
-          </div>
 
     <?php require 'footer.php';?>
     <?php require 'js.php';?>
