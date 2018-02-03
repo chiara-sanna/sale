@@ -29,8 +29,8 @@
                                 <p>Progettiamo e realizziamo bar e locali pubblici porte interne infissi esterni zanzariere e sistemi oscuranti mobili su misura e artigianali arredamenti completi classici e moderni!</p>
                               </div>
                         </div>
-                        <div class="carousel-item">
-                            <img class="d-block w-75" src="img/intro.png" alt="Second slide">
+                        <div class="carousel-item active">
+                            <img class="d-block w-75" src="img/studio-su-misura.jpg" alt="Second slide">
                         </div>
                         <div class="carousel-item">
                             <img class="d-block w-75" src="img/intro.png" alt="Third slide">
