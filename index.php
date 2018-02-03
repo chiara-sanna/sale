@@ -33,7 +33,7 @@
                             <img class="d-block w-75" src="img/studio-su-misura.jpg" alt="Second slide">
                         </div>
                         <div class="carousel-item">
-                            <img class="d-block w-75" src="img/intro.png" alt="Third slide">
+                            <img class="d-block w-75" src="img/fiera.jpg" alt="Third slide">
                         </div>
                     </div>
                     <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
