@@ -19,16 +19,16 @@
           <a class="nav-link text-uppercase text-expanded" href="dove-siamo.php">Dove siamo</a>
         </li>
         <li class="nav-item px-lg-4">
-          <a class="nav-link text-uppercase text-expanded" href="#products.html">TO-DO</a>
+          <a class="nav-link text-uppercase text-expanded" href="#products.html">prodotti</a>
         </li>
         <li class="nav-item px-lg-4">
-          <a class="nav-link text-uppercase text-expanded" href="#store.html"> </a>
+          <a class="nav-link text-uppercase text-expanded" href="#store.html">store</a>
         </li>
         <li class="nav-item px-lg-4">
-          <a class="nav-link text-uppercase text-expanded" href="#su-misura.html"> </a>
+          <a class="nav-link text-uppercase text-expanded" href="#su-misura.html">su misura</a>
         </li>
          <li class="nav-item px-lg-4">
-          <a class="nav-link text-uppercase text-expanded" href="#contact-us.html"> </a>
+          <a class="nav-link text-uppercase text-expanded" href="#contact-us.html">contact us</a>
         </li>
       </ul>
     </div>
