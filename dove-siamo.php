@@ -25,10 +25,10 @@
 
 
       function initMap() {
-        var cagliari = {lat: 39.214187, lng: 9.111982};
+        var cheremule = {lat: 40.507728, lng: 8.726293};
         var map = new google.maps.Map(document.getElementById('map'), {
           zoom: 20,
-          center: cagliari
+          center: cheremule
         });
 
         var contentString = '<h4>Sanna legno</h4><p>testo testo testo testo</p>';
@@ -39,9 +39,9 @@
         });
 
         var marker = new google.maps.Marker({
-          position: cagliari,
+          position: Cheremule,
           map: map,
-          title: 'Cagliari sanna'
+          title: 'Cheremule Sanna'
         });
         infowindow.open(map, marker);
         marker.addListener('click', function() {
