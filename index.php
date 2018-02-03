@@ -8,8 +8,6 @@
     </iframe>
     <header>
         <img src="img/header-bg.png">
-        <li class="nav-item px-lg-4">
-           </li>
     </header>
     <?php require 'navigation.php';?>
 
