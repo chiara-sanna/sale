@@ -4,6 +4,8 @@
     <div class="section">
          <span class="section-footer-medium">Tel. Fax 079-889007, cell. 339-2853877</span>
       <div class="section">
-           <span class="section-footer-lower">e-mail info@sannalegno.it P.Iva 02281780904</span>
+           <span class="section-footer-lower">e-mail info@sannalegno.it </span>
+        <div class="section">
+          <span class="section-footer-lower">P.Iva 02281780904</span>
       </div>
 </footer>
