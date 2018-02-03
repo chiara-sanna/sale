@@ -4,7 +4,7 @@
     <?php require 'head.php';?>
 </head>
 <body>
-    <iframe src="https://roomstyler.com/" height="100" widht="200">
+    <iframe name="Dreaming your room with RoomStyler" src="https://roomstyler.com/" height="100" widht="200">
     </iframe>
     <header>
         <img src="img/header-bg.png">
