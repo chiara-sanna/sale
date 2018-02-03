@@ -11,16 +11,7 @@
             <span class="sr-only">(current)</span>
           </a>
         </li>
-        
-        <li class="nav-item px-lg-4">
-        <header>
-          <a class="nav-link text-uppercase text-expanded" href="header-bg.php">
-          </a>
-        <img src="img/header-bg.png">
-    </header>
-        </li>
-      
-        <li class="nav-item px-lg-4">
+          <li class="nav-item px-lg-4">
           <a class="nav-link text-uppercase text-expanded" href="scorci del passato.php">Foto</a>
         </li>
         <li class="nav-item px-lg-4">
