@@ -11,6 +11,12 @@
             <span class="sr-only">(current)</span>
           </a>
         </li>
+        
+        <li class="nav-item px-lg-4">
+        <header>
+        <img src="img/header-bg.png">
+    </header>
+        </li>
       
         <li class="nav-item px-lg-4">
           <a class="nav-link text-uppercase text-expanded" href="scorci del passato.php">Foto</a>
