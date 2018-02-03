@@ -14,7 +14,7 @@
         
         <li class="nav-item px-lg-4">
             <header>
-          <a class="nav-link text-uppercase text-expanded" href="img/header-bg.png"> </a>
+          <a class="nav-link text-uppercase text-expanded" href="head.php"> </a>
              </header>
           
           <li class="nav-item px-lg-4">
