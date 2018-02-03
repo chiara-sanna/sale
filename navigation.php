@@ -22,13 +22,13 @@
           <a class="nav-link text-uppercase text-expanded" href="#products.html">TO-DO</a>
         </li>
         <li class="nav-item px-lg-4">
-          <a class="nav-link text-uppercase text-expanded" href="#store.html">TO-DO</a>
+          <a class="nav-link text-uppercase text-expanded" href="#store.html"> </a>
         </li>
         <li class="nav-item px-lg-4">
-          <a class="nav-link text-uppercase text-expanded" href="#su-misura.html">TO-DO</a>
+          <a class="nav-link text-uppercase text-expanded" href="#su-misura.html"> </a>
         </li>
          <li class="nav-item px-lg-4">
-          <a class="nav-link text-uppercase text-expanded" href="#contact-us.html">TO-DO</a>
+          <a class="nav-link text-uppercase text-expanded" href="#contact-us.html"> </a>
         </li>
       </ul>
     </div>
