@@ -9,7 +9,9 @@ body {
 
 header img {
     display: block;
-    height: 250px;
+    --height: 250px;
+    --se metti width con la % si riduce proporzionalmente
+    width:75%
     margin: 20px auto;
 }
 
