@@ -5,7 +5,7 @@
 </head>
 <body>
     <iframe name="Dreaming your room with RoomStyler" src="https://roomstyler.com/" height="100" widht="200"></iframe>
-    <iframe src="https://roomstyler.com/" width="188" height="258"></iframe>
+    <iframe src="https://www.web-link.it/html/iframe.htm"></iframe>
     <iframe src="https://www.w3schools.com"></iframe>
     
     
