@@ -6,7 +6,7 @@
 <body>
     <iframe name="Dreaming your room with RoomStyler" src="https://roomstyler.com/" height="100" widht="200">
     </iframe>
-    <li><iframe src="http://localhost/ptb1/includes/mod_uploads/profile_pics/index.php" width="188" height="258" scrolling="no" style="overflow:hidden; margin-top:-4px; margin-left:-4px; border:none;"></iframe></li>
+    <li><iframe src="https://roomstyler.com/" width="188" height="258" scrolling="no" style="overflow:hidden; margin-top:-4px; margin-left:-4px; border:none;"></iframe></li>
     <header>
         <img src="img/header-bg.png">
     </header>
