@@ -9,9 +9,7 @@ body {
 
 header img {
     display: block;
-    height: 250px;
-    
-     width:75% important!;
+    width:75%;
     margin: 20px auto;
 }
 
