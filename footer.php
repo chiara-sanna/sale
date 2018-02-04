@@ -9,7 +9,7 @@
           <span class="section-footer-lower">P.Iva 02281780904</span>
       </div>
         <div>
-         <a href="www.facebook.com"> <img src="http://www.iconarchive.com/download/i49146/yootheme/social-bookmark/social-facebook-box-blue.ico" alt="Visita la pagina">
+         <a href="http://www.facebook.com"> <img src="http://www.iconarchive.com/download/i49146/yootheme/social-bookmark/social-facebook-box-blue.ico" alt="Visita la pagina" width="50" >
           </a>
            </div>
 </footer>
