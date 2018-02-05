@@ -9,11 +9,11 @@
           <span class="section-footer-lower">P.Iva 02281780904</span>
       </div>
         <div>
-         <a href="https://www.facebook.com/sannalegno/"> <img src="facebook-icon.png" alt="Visita la pagina" width="50" >
+         <a href="https://www.facebook.com/sannalegno/"> <img src="img/facebook-icon.png" alt="Visita la pagina" width="50" >
           </a>
            </div>
          <div>
-         <a href="https://www.instagram.com/explore/locations/1212899245387102/falegnameria-sanna-legno-srl-cheremule/"> <img src="instagram-icon.png" alt="Visita la pagina" width="50" >
+         <a href="https://www.instagram.com/explore/locations/1212899245387102/falegnameria-sanna-legno-srl-cheremule/"> <img src="img/instagram-icon.png" alt="Visita la pagina" width="50" >
           </a>
            </div>
          
