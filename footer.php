@@ -16,5 +16,8 @@
          <a href="https://www.instagram.com/explore/locations/1212899245387102/falegnameria-sanna-legno-srl-cheremule/"> <img src="img/instagram-icon.png" alt="Visita la pagina" width="50" >
           </a>
            </div>
+        <div class="section">
+          <span class="section-footer-lower"> <img src="img/follow-us.png" width="50"> </span>
+      </div>
          
 </footer>
