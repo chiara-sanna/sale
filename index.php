@@ -38,8 +38,6 @@
                         <div class="carousel-item active">
                             <img class="d-block w-75" src="img/intro.png" alt="First slide">
                               <div class="carousel-caption d-none d-md-block">
-                                <h4>Falegnameria Arredamenti</h4>
-                                <p>Progettiamo e realizziamo bar e locali pubblici porte interne infissi esterni zanzariere e sistemi oscuranti mobili su misura e artigianali arredamenti completi classici e moderni!</p>
                               </div>
                         </div>
                         <div class="carousel-item">
