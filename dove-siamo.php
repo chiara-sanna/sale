@@ -2,6 +2,8 @@
 <html lang="en">
 <head>
     <?php require 'head.php';?>
+     
+    
     <style>
       #map {
         height: 500px;
@@ -50,6 +52,9 @@
     <script async defer
     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCBnCMGOQvSAnDwPA4MFuBtmRjJW0_DRuM&callback=initMap">
     </script>
+    
+    <?php require 'contact_form.php';?>
+    
     <?php require 'footer.php';?>
     <?php require 'js.php';?>
 </body>
