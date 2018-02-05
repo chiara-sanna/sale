@@ -12,5 +12,9 @@
          <a href="https://www.facebook.com/sannalegno/"> <img src="http://www.iconarchive.com/download/i49146/yootheme/social-bookmark/social-facebook-box-blue.ico" alt="Visita la pagina" width="50" >
           </a>
            </div>
+         <div>
+         <a href="https://www.instagram.com/explore/locations/1212899245387102/falegnameria-sanna-legno-srl-cheremule/"> <img src="http://icons.iconarchive.com/icons/sicons/basic-round-social/72/instagram-icon.png" alt="Visita la pagina" width="50" >
+          </a>
+           </div>
          
 </footer>
