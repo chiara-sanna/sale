@@ -17,7 +17,7 @@
     <section class="page-section clearfix">
         <div class="container">
             <div class="intro">
-<div class="product-item-title d-flex">
+<div style="margin-left: 0!important;" class="product-item-title d-flex">
             <div class="bg-faded p-5 d-flex ml-auto rounded">
               <h2 class="section-heading mb-0">
                 <span class="section-heading-upper">Va bene una cosa del genere?</span>
