@@ -20,8 +20,8 @@
 <div class="product-item-title d-flex">
             <div class="bg-faded p-5 d-flex ml-auto rounded">
               <h2 class="section-heading mb-0">
-                <span class="section-heading-upper">Blended to Perfection</span>
-                <span class="section-heading-lower">Coffees &amp; Teas</span>
+                <span class="section-heading-upper">Va bene una cosa del genere?</span>
+                <span class="section-heading-lower">Puoi scrivere quello che vuoi</span>
               </h2>
             </div>
           </div>
