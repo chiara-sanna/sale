@@ -14,7 +14,11 @@ header img {
 }
 
 h1,
-h2,
+h2,{
+     display: block;
+    width:75%;
+    margin: 20px auto;
+    }
 h3,
 h4,
 h5,
