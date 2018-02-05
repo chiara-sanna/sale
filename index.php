@@ -17,7 +17,14 @@
     <section class="page-section clearfix">
         <div class="container">
             <div class="intro">
-
+<div class="product-item-title d-flex">
+            <div class="bg-faded p-5 d-flex ml-auto rounded">
+              <h2 class="section-heading mb-0">
+                <span class="section-heading-upper">Blended to Perfection</span>
+                <span class="section-heading-lower">Coffees &amp; Teas</span>
+              </h2>
+            </div>
+          </div>
              <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
                     <ol class="carousel-indicators">
                         <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
