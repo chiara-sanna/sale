@@ -6,7 +6,7 @@
     
     <style>
       #map {
-        height: 500px;
+        height: 250px;
       }
     </style>
 </head>
@@ -53,8 +53,9 @@
     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCBnCMGOQvSAnDwPA4MFuBtmRjJW0_DRuM&callback=initMap">
     </script>
     
+    <div style= "height:100">
     <?php require 'contact_form.php';?>
-    
+    </div>
     <?php require 'footer.php';?>
     <?php require 'js.php';?>
 </body>
