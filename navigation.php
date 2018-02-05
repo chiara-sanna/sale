@@ -28,7 +28,7 @@
           <a class="nav-link text-uppercase text-expanded" href="#su-misura.html">su misura</a>
         </li>
          <li class="nav-item px-lg-4">
-          <a class="nav-link text-uppercase text-expanded" href="#contact-us.php">contact us</a>
+          <a class="nav-link text-uppercase text-expanded" href="contact-us.php">contact us</a>
         </li>
       </ul>
     </div>
