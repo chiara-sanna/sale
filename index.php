@@ -20,8 +20,11 @@
 <div style="margin-left: 0!important;" class="product-item-title d-flex">
             <div class="bg-faded p-5 d-flex ml-auto rounded">
               <h2 class="section-heading mb-0">
-                <span class="section-heading-upper">Va bene una cosa del genere?</span>
-                <span class="section-heading-lower">Puoi scriverci</span>
+                <span class="section-heading-upper">Falegnameria Arredamenti</span>
+                <span class="section-heading-lower">Progettiamo e realizziamo bar e locali pubblici</span>
+                  <span class="section-heading-lower">porte interne, infissi esterni, zanzariere e sistemi oscuranti</span>
+                  <span class="section-heading-lower">mobili su misura e artigianali</span>
+                  <span class="section-heading-lower">arredamenti completi, classici e moderni!</span>
               </h2>
             </div>
           </div>
