@@ -17,7 +17,7 @@
           </a>
            </div>
         <div class="section">
-          <span class="section-footer-lower"> <img src="img/follow-us.png" width="200"> </span>
+          <span class="section-footer-lower"> <img src="img/follow-us.png" width="300"> </span>
       </div>
          
 </footer>
