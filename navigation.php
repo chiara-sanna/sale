@@ -10,9 +10,20 @@
             <span class="sr-only">(current)</span>
           </a>
         </li>
-   <li class="nav-item px-lg-4">
-          <a class="nav-link text-uppercase text-expanded" href="fiere.php">Fiere</a>
-        </li>
+
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          FIERE
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="fiera-2018.php">Fiera 2018</a>
+          <a class="dropdown-item" href="fiera-2017.php">Fiera 2017</a>
+          <a class="dropdown-item" href="fiera-2016.php">Fiera 2016</a>
+          <a class="dropdown-item" href="fiera-2015.php">Fiera 2015</a>
+          
+          
+        </div>
+      </li>
         <li class="nav-item px-lg-4">
           <a class="nav-link text-uppercase text-expanded" href="stanza-virtuale.php">Stanza Virtuale</a>
         </li>
