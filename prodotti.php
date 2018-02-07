@@ -36,7 +36,7 @@
                                     <a class="btn btn-primary btn-xl" href="stanza-virtuale.php">Make your dream a home!</a>
                                 </div>
                             </div> 
-                            <img class="d-block w-75" src="img/intro.png" alt="First slide">
+                            <img class="d-block w-75" src="img/teiera antica.jpg" alt="First slide">
                         </div>
                         <div class="carousel-item">
                             <div class="intro-text left-0 text-center bg-faded p-5 rounded">
@@ -49,7 +49,7 @@
                                     <a class="btn btn-primary btn-xl" href="stanza-virtuale.php">Make your dream a home!</a>
                                 </div>
                             </div> 
-                            <img class="d-block w-75" src="img/intro.png" alt="Second slide">
+                            <img class="d-block w-75" src="img/teiera antica.jpg" alt="Second slide">
                         </div>
                         <div class="carousel-item">
                             <div class="intro-text left-0 text-center bg-faded p-5 rounded">
@@ -62,7 +62,7 @@
                                     <a class="btn btn-primary btn-xl" href="stanza-virtuale.php">Make your dream a home!</a>
                                 </div>
                             </div> 
-                            <img class="d-block w-75" src="img/intro.png" alt="Third slide">
+                            <img class="d-block w-75" src="img/teiera antica.jpg" alt="Third slide">
                         </div>
                     </div>
                     <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -80,22 +80,6 @@
         </div>
     </section>
 
-
-    <section class="page-section cta">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-9 mx-auto">
-                    <div class="cta-inner text-center rounded">
-                        <h2 class="section-heading mb-4">
-                            <span class="section-heading-upper">Our Promise</span>
-                            <span class="section-heading-lower">To You</span>
-                        </h2>
-                        <p class="mb-0">Garantiamo professionalità e competenza dalla progettazione alla posa in opera!</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
 
     <?php require 'footer.php';?>
     <?php require 'js.php';?>

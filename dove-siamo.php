@@ -54,7 +54,6 @@
     </script>
     
     <div style= "height:470px; width:250px">
-    <?php require 'contact_form.php';?>
     </div>
     <?php require 'footer.php';?>
     <?php require 'js.php';?>
