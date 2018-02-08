@@ -27,7 +27,7 @@
                     </ol>
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <div class="intro-text left-0 text-center bg-faded p-5 rounded">
+                            <div class="intro-text left-70 text-center bg-faded p-5 rounded">
                                 <h2 class="section-heading mb-4">
                                     <span class="section-heading-upper">falegnameria arredamenti</span>
                                 </h2>
