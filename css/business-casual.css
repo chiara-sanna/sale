@@ -133,7 +133,7 @@ p {
     }
     .intro .intro-text {
         position: absolute;
-        left: 0;
+        left: -70px;
 
         width: 60%;
         margin-top: 3rem;
