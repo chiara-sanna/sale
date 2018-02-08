@@ -6,6 +6,7 @@
 <body>
     <header>
         <img src="img/header-bg.png">
+        <img src="img/falegname.png">
     </header>
     <?php require 'navigation.php';?>
 
