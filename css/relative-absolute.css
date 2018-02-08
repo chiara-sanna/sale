@@ -6,7 +6,7 @@ head
         top: 0;
         left: o;
         }
-        .falegname
+        .fale2
         {
             position: absolute;
             top: 60px;
@@ -17,7 +17,7 @@ head
 <body>
      <div style="position: relative; left: 0; top: 0;">
      <img src="img/header-bg.png" class="header-bg"/>
-     <img src="img/falegname.jpg" class="falegname"/>
+     <img src="img/fale2.jpg" class="fale2"/>
 </div>
 </body>
      
