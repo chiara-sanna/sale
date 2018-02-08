@@ -7,30 +7,7 @@
     <header>
         <img src="img/header-bg.png">
         <img src="img/falegname.png">
-        head
-     <style>
-     .header-bg
-     {
-        position: relative;
-        top: 0;
-        left: o;
-        }
-        .falegname
-        {
-            position: absolute;
-            top: 60px;
-            left: 80px;
-        }
-        </style>
-</header>
-<body>
-     <div style="position: relative; left: 0; top: 0;">
-     <img src="img/header-bg.png" class="header-bg"/>
-     <img src="img/falegname.png" class="falegname"/>
-</div>
-</body>
-     
-    </header>
+     </header>
     <?php require 'navigation.php';?>
 
 
