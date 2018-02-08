@@ -132,8 +132,7 @@ p {
         width: 75%;
     }
     .intro .intro-text {
-        position: absolute;
-        left: -70px;
+         left: -70px;
 
         width: 60%;
         margin-top: 3rem;
