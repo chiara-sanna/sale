@@ -28,7 +28,7 @@
                         <div class="carousel-item active">
                             <div class="intro-text left-0 text-center bg-faded p-5 rounded">
                                 <h2 class="section-heading mb-4">
-                                     <span class="section-heading-lower">Fiera 2015</span>
+                                     <span class="section-heading-lower">Fiera 2013</span>
                                 </h2>
                                 <p class="mb-3">Progettiamo e realizziamo bar e locali pubblici porte interne, infissi esterni, zanzariere e sistemi oscuranti mobili su misura e artigianali arredamenti completi, classici e moderni!
                                 </p>
