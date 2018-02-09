@@ -50,7 +50,7 @@
       }
     </script>
     <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCBnCMGOQvSAnDwPA4MFuBtmRjJW0_DRuM&callback=initMap">
+    src="https://www.google.it/maps/place/07040+Cheremule+SS/@40.5063203,8.7261201,156a,35y,45t/data=!3m1!1e3!4m5!3m4!1s0x12dc45b58627e347:0xc275d41cc0d92923!8m2!3d40.5043176!4d8.7261675">
     </script>
     
     <div style= "height:470px; width:250px">
