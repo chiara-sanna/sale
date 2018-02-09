@@ -24,6 +24,20 @@
           
         </div>
       </li>
+          
+          <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          prodotti
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="antiquariato.php">Antiquariato</a>
+          <a class="dropdown-item" href="porte.php">Porte</a>
+          <a class="dropdown-item" href="tavoli-sedie.php">tavoli e sedie</a>
+          <a class="dropdown-item" href="credenze-dispense.php">credenze e dispense</a>
+          
+          
+        </div>
+      </li>
         <li class="nav-item px-lg-4">
           <a class="nav-link text-uppercase text-expanded" href="stanza-virtuale.php">Stanza Virtuale</a>
         </li>
