@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <body>
-    <?php require 'navigation.php';?>
+   
 
 
     <section class="page-section">
