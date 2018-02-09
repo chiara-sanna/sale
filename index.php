@@ -98,6 +98,7 @@
         </div>
     </section>
     
+    <?php require 'foto-oggetti-antichi.php';?>
     <?php require 'footer.php';?>
     <?php require 'js.php';?>
 </body>
