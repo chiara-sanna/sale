@@ -2,7 +2,7 @@
 <html lang="en">
 <body>
    
-
+<?php require 'navigation.php';?>
 
     <section class="page-section">
         <div class="container">
