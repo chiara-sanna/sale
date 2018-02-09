@@ -15,7 +15,7 @@
     <?php require 'navigation.php';?>
     
 <form action="/cgi-bin/FormMail.pl" method="POST">
-<input type=hidden name="recipient" value="valerio_fadda@live.it">
+<input type=hidden name="recipient" value="sannalegno@tiscali.it">
 <input type=hidden name="subject" value="Nuovo messaggio dal sito web">
 <table border="0" cellspacing="0" cellpadding="5" align="center">
  <tr>
