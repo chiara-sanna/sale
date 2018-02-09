@@ -49,7 +49,7 @@
                                     <a class="btn btn-primary btn-xl" href="stanza-virtuale.php">Make your dream a home!</a>
                                 </div>
                             </div> 
-                            <img class="d-block w-75" src="img/cose-antiche.jpg" alt="Second slide">
+                            <img class="d-block w-75" src="img/piatti-tazze-antichi.jpg" alt="Second slide">
                         </div>
                         <div class="carousel-item">
                             <div class="intro-text left-0 text-center bg-faded p-5 rounded">
