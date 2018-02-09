@@ -47,7 +47,7 @@
         </div>
     </section>
 
-    
+  <?php require 'js.php';?>  
    
 </body>
 </html>
