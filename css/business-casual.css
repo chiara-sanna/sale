@@ -140,7 +140,7 @@ p {
     .intro .intro-text .intro-button {
         position: absolute;
         bottom: -2rem;
-        left: 0;
+        left: -70px;
 
         width: 100%;
     }
