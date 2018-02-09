@@ -1,12 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <?php require 'head.php';?>
-</head>
-<body>
-    <header>
-        <img src="img/header-bg.png">
-    </header>
+
     <?php require 'navigation.php';?>
 
 
@@ -53,7 +47,7 @@
         </div>
     </section>
 
-    <?php require 'footer.php';?>
+    
     <?php require 'js.php';?>
 </body>
 </html>
