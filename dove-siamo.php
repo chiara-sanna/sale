@@ -25,13 +25,13 @@
     <script>
 
         function initMap() {
-        var cheremule = {lat: 40.5043241, lng: 8.72621};
+        var cheremule = {lat: 40.507720, lng: 8.726245};
         var map = new google.maps.Map(document.getElementById('map'), {
           zoom: 20,
           center: cheremule
         });
 
-        var contentString = '<h4>Sanna legno</h4><p>testo testo testo testo</p>';
+        var contentString = '<h4>Sanna legno</h4><p>Vieni a trovarci!</p>';
 
         var infowindow = new google.maps.InfoWindow({
           content: contentString,
