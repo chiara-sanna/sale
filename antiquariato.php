@@ -62,7 +62,7 @@
                                     <a class="btn btn-primary btn-xl" href="stanza-virtuale.php">Make your dream a home!</a>
                                 </div>
                             </div> 
-                            <img class="d-block w-75" src="img/cariola-legno-antico.jpg" alt="Third slide">
+                            <img class="d-block w-75" src="img/tazze-teiere-antiche.jpg" alt="Third slide">
                         </div>
                     </div>
                     <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
