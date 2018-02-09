@@ -31,7 +31,7 @@
           center: cheremule
         });
 
-        var contentString = '<h4>Sanna legno</h4><p>Vieni a trovarci!</p>';
+        var contentString = '<h4>Sannalegno</h4><p>Vieni a trovarci!</p>';
 
         var infowindow = new google.maps.InfoWindow({
           content: contentString,
