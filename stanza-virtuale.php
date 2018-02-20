@@ -4,11 +4,12 @@
     <?php require 'head.php';?>
     <style>
       .container {
-        height: 800px;
+        
       }
       iframe {
         margin: 0 auto;
         display: block;
+          height:400px;
       }
     </style>
 </head>
