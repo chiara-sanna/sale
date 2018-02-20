@@ -44,26 +44,26 @@
                                 <h2 class="section-heading mb-4">
                                     <span class="section-heading-upper">falegnameria arredamenti</span>
                                 </h2>
-                                <p class="mb-3">Progettiamo e realizziamo bar e locali pubblici, mobili su misura e artigianali.
+                                <p class="mb-3">Progettiamo e realizziamo bar e locali pubblici.
                                 </p>
                                 <div class="intro-button mx-auto">
                                     <a class="btn btn-primary btn-xl" href="stanza-virtuale.php">Make your dream a home!</a>
                                 </div>
                             </div> 
-                            <img class="d-block w-75" src="img/studio-su-misura.jpg" alt="Second slide">
+                            <img class="d-block w-75" src="img/jessy-james.jpg" alt="Second slide">
                         </div>
                         <div class="carousel-item">
                             <div class="intro-text left-0 text-center bg-faded p-5 rounded">
                                 <h2 class="section-heading mb-4">
                                     <span class="section-heading-upper">falegnameria arredamenti</span>
                                 </h2>
-                                <p class="mb-3">Progettiamo e realizziamo porte interne, infissi esterni, zanzariere e sistemi oscuranti. Arredamenti completi, classici e moderni.
+                                <p class="mb-3">Mobili su misura e artigianali.
                                 </p>
                                 <div class="intro-button mx-auto">
                                     <a class="btn btn-primary btn-xl" href="stanza-virtuale.php">Make your dream a home!</a>
                                 </div>
                             </div> 
-                            <img class="d-block w-75" src="img/jessy-james.JPG" alt="Third slide">
+                            <img class="d-block w-75" src="img/studio-su-misura.JPG" alt="Third slide">
                         </div>
                     </div>
                     <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
