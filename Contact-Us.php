@@ -16,38 +16,11 @@
 
     <section class="page-section clearfix">
         <div class="container">
-               <div id="map"></div>
+               
           </div>
 
       </section>
-    <script>
-        function initMap() {
-        var cheremule = {lat: 40.507710, lng: 8.726339};
-        var map = new google.maps.Map(document.getElementById('map'), {
-          zoom: 20,
-          center: cheremule,
-            mapTypeId: 'satellite'
-        });
-        var contentString = '<h4>Sanna legno</h4><p>testo testo testo testo</p>';
-        var infowindow = new google.maps.InfoWindow({
-          content: contentString,
-          
-        });
-        var marker = new google.maps.Marker({
-          position: cheremule,
-          map: map,
-          title: 'Cheremule Sanna'
-        });
-        infowindow.open(map, marker);
-        marker.addListener('click', function() {
-          infowindow.open(map, marker);
-        });
-      }
-    </script>
-    <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCBnCMGOQvSAnDwPA4MFuBtmRjJW0_DRuM&callback=initMap">
-    </script>
-    
+       
 <form action="/cgi-bin/FormMail.pl" method="POST">
 <input type=hidden name="recipient" value="valerio_fadda@live.it">
 <input type=hidden name="subject" value="Nuovo messaggio dal sito web">
