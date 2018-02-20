@@ -22,7 +22,8 @@
       </section>
     <script>
         function initMap() {
-        var cheremule = {lat: 40.5043241, lng: 8.72621};
+          
+        var cheremule = {lat: 40.507710, lng: 8.726339};
         var map = new google.maps.Map(document.getElementById('map'), {
           zoom: 20,
           center: cheremule
