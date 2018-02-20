@@ -2,11 +2,9 @@
 <html lang="en">
 <head>
     <?php require 'head.php';?>
-     
-    
     <style>
       #map {
-        height: 500px;
+        height: 400px;
       }
     </style>
 </head>
@@ -23,21 +21,17 @@
 
       </section>
     <script>
-
         function initMap() {
-        var cheremule = {lat: 40.507720, lng: 8.726245};
+        var cheremule = {lat: 40.507710, lng: 8.726339};
         var map = new google.maps.Map(document.getElementById('map'), {
           zoom: 20,
           center: cheremule
         });
-
-        var contentString = '<h4>Sannalegno</h4><p>Vieni a trovarci!</p>';
-
+        var contentString = '<h4>Sanna legno</h4><p>testo testo testo testo</p>';
         var infowindow = new google.maps.InfoWindow({
           content: contentString,
           
         });
-
         var marker = new google.maps.Marker({
           position: cheremule,
           map: map,
@@ -50,11 +44,34 @@
       }
     </script>
     <script async defer
-    src="https://www.google.it/maps/place/07040+Cheremule+SS/@40.5063203,8.7261201,156a,35y,45t/data=!3m1!1e3!4m5!3m4!1s0x12dc45b58627e347:0xc275d41cc0d92923!8m2!3d40.5043176!4d8.7261675">
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCBnCMGOQvSAnDwPA4MFuBtmRjJW0_DRuM&callback=initMap">
     </script>
     
-    <div style= "height:470px; width:250px">
-    </div>
+<form action="/cgi-bin/FormMail.pl" method="POST">
+<input type=hidden name="recipient" value="valerio_fadda@live.it">
+<input type=hidden name="subject" value="Nuovo messaggio dal sito web">
+<table border="0" cellspacing="0" cellpadding="5" align="center">
+ <tr>
+ <td><b> Nome e Cognome:</b></td>
+ <td align="right"><input type=text name="realname"></td>
+ </tr>
+ <tr>
+ <td><b>Email:</b></td>
+ <td align="right"><input type=text name="email"></td>
+ </tr>
+ <tr>
+ <td colspan="2"><b>Messaggio:</b></td>
+ </tr>
+ <tr>
+ <td colspan="2"><textarea name="messaggio" cols="40" rows="5"></textarea></td>
+ </tr>
+ <tr>
+ <td colspan="2" align="center"><input type="Submit" value="Invia"></td>
+ </tr>
+</table>
+<input type=hidden name="required" value="email,realname,messaggio">
+</form>
+    
     <?php require 'footer.php';?>
     <?php require 'js.php';?>
 </body>
