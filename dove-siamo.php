@@ -6,6 +6,7 @@
       #map {
         height: 1000px;
           width:150%;
+          margin:0px 15px 20px -200px
       }
     </style>
 </head>
