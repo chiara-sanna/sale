@@ -4,7 +4,8 @@
     <?php require 'head.php';?>
     <style>
       #map {
-        height: 600px;
+        height: 1000px;
+          width:150%;
       }
     </style>
 </head>
