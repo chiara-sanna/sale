@@ -6,7 +6,7 @@
 <body>
     <header>
         <img src="img/header-bg.png">
-        <img src="img/fale2.jpg">
+      
      </header>
     <?php require 'navigation.php';?>
 
