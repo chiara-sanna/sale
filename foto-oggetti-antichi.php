@@ -27,7 +27,7 @@
                             <img class="d-block w-75" src="img/oggetti-antichi.jpg" alt="First slide">
                         </div>
                         <div class="carousel-item">
-                            <img class="d-block w-75" src="img/teiera antica.jpg" alt="Second slide">
+                            <img class="d-block w-75" src="img/antica.jpg" alt="Second slide">
                         </div>
                         <div class="carousel-item">
                             <img class="d-block w-75" src="img/intagli-a-mano2.jpg" alt="Third slide">
