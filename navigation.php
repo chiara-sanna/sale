@@ -45,10 +45,10 @@
           <a class="nav-link text-uppercase text-expanded" href="dove-siamo.php">Dove siamo</a>
           </li>
         <li class="nav-item px-lg-4">
-          <a class="nav-link text-uppercase text-expanded" href="store.php">locali</a>
+          <a class="nav-link text-uppercase text-expanded" href="store.php"></a>
         </li>
         <li class="nav-item px-lg-4">
-          <a class="nav-link text-uppercase text-expanded" href="#su-misura.html">su misura</a>
+          <a class="nav-link text-uppercase text-expanded" href="#su-misura.html"></a>
         </li>
          <li class="nav-item px-lg-4">
           <a class="nav-link text-uppercase text-expanded" href="contact-us.php">contact us</a>
