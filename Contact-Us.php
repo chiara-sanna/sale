@@ -15,7 +15,7 @@
     <?php require 'navigation.php';?>
 
     <section class="page-section clearfix">
-        <div class="container">
+        <div class="container style="height=600px">
                
           </div>
 
