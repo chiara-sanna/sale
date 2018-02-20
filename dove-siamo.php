@@ -25,7 +25,8 @@
         var cheremule = {lat: 40.507710, lng: 8.726339};
         var map = new google.maps.Map(document.getElementById('map'), {
           zoom: 20,
-          center: cheremule
+          center: cheremule,
+          mapTypeId: google.maps.MapTypeId.HYBRID
         });
         var contentString = '<h4>Sanna legno</h4><p>testo testo testo testo</p>';
         var infowindow = new google.maps.InfoWindow({
