@@ -44,7 +44,7 @@
                                 <h2 class="section-heading mb-4">
                                     <span class="section-heading-upper">falegnameria arredamenti</span>
                                 </h2>
-                                <p class="mb-3">Progettiamo e realizziamo bar e locali pubblici porte interne, infissi esterni, zanzariere e sistemi oscuranti mobili su misura e artigianali arredamenti completi, classici e moderni!
+                                <p class="mb-3">Progettiamo e realizziamo bar e locali pubblici, mobili su misura e artigianali.
                                 </p>
                                 <div class="intro-button mx-auto">
                                     <a class="btn btn-primary btn-xl" href="stanza-virtuale.php">Make your dream a home!</a>
@@ -57,7 +57,7 @@
                                 <h2 class="section-heading mb-4">
                                     <span class="section-heading-upper">falegnameria arredamenti</span>
                                 </h2>
-                                <p class="mb-3">Progettiamo e realizziamo bar e locali pubblici porte interne, infissi esterni, zanzariere e sistemi oscuranti mobili su misura e artigianali arredamenti completi, classici e moderni!
+                                <p class="mb-3">Progettiamo e realizziamo porte interne, infissi esterni, zanzariere e sistemi oscuranti. Arredamenti completi, classici e moderni.
                                 </p>
                                 <div class="intro-button mx-auto">
                                     <a class="btn btn-primary btn-xl" href="stanza-virtuale.php">Make your dream a home!</a>
